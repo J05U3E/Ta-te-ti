@@ -1,5 +1,10 @@
 # React + Vite
 
+Proyecto creado para la practica de temas en lo relacionado con el lado del cliente
+practica de react dentro del curso de midudev 
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
