@@ -1,7 +1,8 @@
 # React + Vite
 
-Proyecto creado para la practica de temas en lo relacionado con el lado del cliente
-practica de react dentro del curso de midudev 
+Proyecto creado para practicar temas en lo relacionado con el lado del cliente.
+
+Midudev : aprendiendo-react 
 
 
 
